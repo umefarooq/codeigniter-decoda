@@ -28,7 +28,8 @@ $config['__markupResult'] = array(
         'li'		=> '<li>$1</li>',
         'spoiler'   => array('__spoiler'),
 		'video'		=> array('__video'),
-        'decode'    => array('__decode')
+        'decode'    => array('__decode'),
+        'callback'    => array('__callback')
     );
 
 $config['__markupCode'] = array(
